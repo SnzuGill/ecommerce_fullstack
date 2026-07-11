@@ -1,0 +1,35 @@
+## Build
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## VS Code (optional)
+.vscode/
+
+## Rider
+.idea/
+
+## SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## Logs
+*.log
+
+## Publish
+publish/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Git
+.git
+
+## Cache
+.cache/
